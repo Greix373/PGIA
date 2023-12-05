@@ -1,9 +1,5 @@
-Triangulo
-Cuadrado
-Circulo
-Heptagono
-Hexagono
-Pentagono
-Octagono
-Ovalo
-Estrella
+circulo
+triangulo
+rectangulo
+octagono
+estrella
